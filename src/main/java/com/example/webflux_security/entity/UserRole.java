@@ -1,4 +1,4 @@
-package com.example.webfluxsecurity.entity;
+package com.example.webflux_security.entity;
 
 public enum UserRole {
     USER,

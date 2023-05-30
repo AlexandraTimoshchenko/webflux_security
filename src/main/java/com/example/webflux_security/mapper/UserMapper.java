@@ -1,7 +1,7 @@
 package com.example.webflux_security.mapper;
 
-import com.example.webfluxsecurity.dto.UserDto;
-import com.example.webfluxsecurity.entity.UserEntity;
+import com.example.webflux_security.dto.UserDto;
+import com.example.webflux_security.entity.UserEntity;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 

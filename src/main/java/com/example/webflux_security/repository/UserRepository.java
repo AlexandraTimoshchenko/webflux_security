@@ -1,6 +1,7 @@
-package com.example.webfluxsecurity.repository;
+package com.example.webflux_security.repository;
 
-import com.example.webfluxsecurity.entity.UserEntity;
+
+import com.example.webflux_security.entity.UserEntity;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import reactor.core.publisher.Mono;
 

@@ -1,6 +1,6 @@
 package com.example.webflux_security.dto;
 
-import com.example.webfluxsecurity.entity.UserRole;
+import com.example.webflux_security.entity.UserRole;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
